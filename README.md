@@ -9,4 +9,4 @@ Project Name:
 Project URL:
 Current Star Received:
 ```
-- Additional Verification: Add your wallet ETH address at the very end of .cowcoin.md at project's root folder
+- Add your wallet ETH address in .cowcoin at project's root folder
