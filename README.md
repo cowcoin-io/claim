@@ -1,12 +1,16 @@
-Welcome to cowcoin.io, an open source incubator
+Welcome to cowcoin.io, our open source incubator by community - for community!
 
-In-order to collect your coin, please make a pull request into this repo
+This instruction details all the steps the open source project maintainers must follow to claim Cow tokens.
 
-- Filename format: yourprojectname.md
-- Content as follow:
+1. In order for us to transfer tokens to your project, please add a file name .cowcoin into your project root folder, in which you put your ETH wallet ETH address.
+
+2. Open a pull request to this repo, to add a new file.
+
+- Filename: yourprojectname.md
+- File content needs to provide the below info:
+
 ```
-Project Name:
+Project name:
 Project URL:
-Current Star Received:
+Current number of stars/favourites:
 ```
-- Add your wallet ETH address in .cowcoin at project's root folder
