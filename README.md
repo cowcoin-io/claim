@@ -4,7 +4,7 @@ This instruction details all the steps the open source project maintainers must 
 
 1. In order for us to transfer tokens to your project, please add a file name .cowcoin into your project root folder, in which you put your ETH wallet ETH address.
 
-2. Make a tweet and tag 3 other projects, example "Hey, I'm collecting 2,000,000 tokken from @cowcoin_io calling @project1 @project2 @project3 now your turn" Remember, Stronger the community, market value will be higher.
+2. Make a tweet and tag 3 other projects, example "Hey, I'm collecting 2,000,000 tokken from @cowcoin_io calling @project1 @project2 @project3 now your turn" Remember, stronger the community, market value will be higher.
 
 3. Open a pull request to this repo, to add a new file.
 
