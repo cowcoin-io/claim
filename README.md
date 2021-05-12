@@ -1,4 +1,4 @@
-Welcome to cowcoin.io, our open source initiative. By community - for community!
+Welcome to [cowcoin.io](https://cowcoin.io), our open source initiative. By community - for community!
 
 This instruction details all the steps the open source project maintainers must follow to claim CowCoin tokens.
 
