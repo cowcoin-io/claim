@@ -1,12 +1,10 @@
-Welcome to cowcoin.io, our open source incubator by community - for community!
+Welcome to cowcoin.io, our open source initiative. By community - for community!
 
-This instruction details all the steps the open source project maintainers must follow to claim Cow tokens.
+This instruction details all the steps the open source project maintainers must follow to claim CowCoin tokens.
 
 1. In order for us to transfer tokens to your project, please add a file name .cowcoin into your project root folder, in which you put your ETH wallet ETH address.
 
-2. Make a tweet and tag 3 other projects, example "Hey, I'm collecting 2,000,000 token from @cowcoin_io calling @project1 @project2 @project3 now your turn" Remember, stronger the community, market value will be higher.
-
-3. Open a pull request to this repo, to add a new file.
+2. Open a pull request to this repo, to add a new file.
 
 - Filename: yourprojectname.md
 - File content needs to provide the below info:
@@ -17,9 +15,9 @@ Project URL:
 Current number of stars/favourites:
 ```
 
-4. To claim more tokens for the same project (like when your projects get more stars), do pull request to modify the same old filename, but add a new line after the existing content, so we can track how each project progresses.
+3. To claim more tokens for the same project (like when your projects get more stars), do pull request to modify the same old filename, but add a new line after the existing content, so we can track how each project progresses.
 
-5. To apply for grant, open pull request to modify the existing .md file of your project and add a new section with the below format.
+4. To apply for grant, open pull request to modify the existing .md file of your project and add a new section with the below format.
 
 ```
 [ Grant ]
@@ -29,3 +27,6 @@ Details on your development roadmap:
 ```
 
 The grant will be granted after a reviewing process.
+
+5. Please help us to spread the news, either by making a tweet, or post on Facebook, Instagram, etc about our project. Tag our twitter https://twitter.com/cowcoin_io, and follow us for further updates.
+
